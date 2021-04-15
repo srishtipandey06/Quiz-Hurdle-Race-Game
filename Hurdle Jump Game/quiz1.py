@@ -50,11 +50,11 @@ def result(score):
     end=Label(root, text=(f'Your score was',score), bg='#ffffff', font=('Britannic', 30))
     end.pack(pady=100)
 
-def run(score):
-    if score>=5:
-        exec(open("main.py").read(), globals()) 
-    elif score<5:
-        exit()
+# def run(score):
+#     if score>=5:
+#         exec(open("main.py").read(), globals()) 
+#     elif score<5:
+#         exit()
     
 
 #score calculation
@@ -67,7 +67,7 @@ def calculate():
             score+=1
         x+=1
     result(score)
-    run(score)
+#     run(score)
 
 #when a radio button is selected
 
