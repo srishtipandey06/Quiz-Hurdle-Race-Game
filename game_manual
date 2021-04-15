@@ -1,0 +1,17 @@
+#Steps to Play the game: 
+Step1: The player has to play a quiz game which will contain 10 questions related to antenna and wave propagation.
+Step2: The player can select the number of levels (0-3) in the game.
+Step3: The player has to complete the quiz in-order to play the hurdle game.
+Step4: The player will have to score at-least 5 points in the quiz to play the hurdle race game. If he fails to score 5 points, the player will have to restart the game again.
+Step5: The player will have to qualify a round in-order to proceed to the next level. The level of difficulty will go on increasing after each level.
+Step6: He'll start running on a path (like in subway surfers)
+Step7: Whenever he touches a hurdle, he'll lose a life.
+Step8: In the hurdle race game, the player has to cross the 20 points in-order to reach the next level. The points in each hurdle game will go on increasing as the level proceeds. 
+Step9: He has to reach the final destination for which he needs to cross the hurdles and play the quiz. 
+ 
+System Requirement:  
+1   Processors- Intel® Core™ i5 processor  4300M at 2.60 GHz or 2.59  GHz  
+2 	RAM - 4 GB (min)  
+3 	Operating systems - Windows 10, MacOS, Linux 
+4 	Disk space - 1 GB (min) 
+5 	Software - Python 3
